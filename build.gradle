@@ -19,7 +19,6 @@ apply plugin: 'io.spring.dependency-management'
 
 group 'com.webservice'
 version '1.0-SNAPSHOT'
-
 sourceCompatibility = 1.8
 
 repositories {
